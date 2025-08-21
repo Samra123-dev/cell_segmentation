@@ -1,5 +1,5 @@
 # Introduction
-Official code for “DRA-Net: Improved U-net Cell Segmentation Network Based on Residual Dual Attention”
+code for “DRA-Net: Improved U-net Cell Segmentation Network Based on Residual Dual Attention”
 
 
 
